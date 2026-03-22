@@ -12,12 +12,6 @@ Personal portfolio website and CV for **Ankit Arora**, a Product Manager with 8+
 - **Patent:** System and Methods for Next Generation Annotation Platform for Machine Learning (No. 81285350, Jun 2025)
 - **Certification:** SAFe® 6 Agile Product Manager
 
-## 🛠 Built With
-- Plain HTML, CSS, JavaScript — no frameworks, no dependencies
-- Single self-contained file with embedded assets
-- Fully responsive, mobile-friendly
-- CV download baked in
-
 ## 📬 Contact
 - Email: ankitarora60@gmail.com
 - LinkedIn: [linkedin.com/in/ankitaroraab539457](https://www.linkedin.com/in/ankitaroraab539457/)
