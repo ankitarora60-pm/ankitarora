@@ -3,7 +3,7 @@
 Personal portfolio website and CV for **Ankit Arora**, a Product Manager with 8+ years of experience building scalable products across payments, e-commerce, and data platforms.
 
 ## 🔗 Live Site
-[ankitarora.github.io](https://ankitarora.github.io/ankitarora)
+[ankitarora60-pm.github.io/ankitarora](https://ankitarora60-pm.github.io/ankitarora)
 
 ## 👤 About
 - **Current:** Product Manager at UST Global (Client: Deluxe) — payments infrastructure, EMV device management, digital wallets, dlxPay
